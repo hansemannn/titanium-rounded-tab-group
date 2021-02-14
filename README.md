@@ -11,6 +11,7 @@ A lightweight module to apply a native rounded tab groups (no custom view) in Ap
 ## Example
 
 None needed! Just include the module in your tiapp.xml and it will do the rest. No `import`/`require` needed.
+If you still want one, see the `example/app.js`!
 
 ## Author
 
