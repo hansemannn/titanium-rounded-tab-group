@@ -1,5 +1,3 @@
-Ti.UI.tintColor = undefined;
-
 const tabGroup = Ti.UI.createTabGroup({
 	tabs: [
 		Ti.UI.createTab({ window: Ti.UI.createWindow(), title: 'Tab 1', icon: dot() }),
